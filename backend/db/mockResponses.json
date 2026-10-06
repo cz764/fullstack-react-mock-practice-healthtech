@@ -1,0 +1,35 @@
+{
+  "fallback": "Thanks for sharing that. Could you tell me a bit more about when this started and whether anything makes it better or worse?",
+  "entries": [
+    {
+      "id": "sore-throat",
+      "keywords": ["sore throat", "throat", "swallow"],
+      "response": "A sore throat is most often caused by a viral infection and usually improves within a week. Warm fluids, rest, and over-the-counter pain relief can help. If you notice difficulty breathing, trouble swallowing liquids, or a fever above 103°F, please seek in-person care promptly."
+    },
+    {
+      "id": "fever",
+      "keywords": ["fever", "temperature", "chills"],
+      "response": "A mild fever is a normal immune response. Stay hydrated and rest. Let me know your current temperature and whether you have any other symptoms such as rash, stiff neck, or shortness of breath, since those would change my recommendation."
+    },
+    {
+      "id": "headache",
+      "keywords": ["headache", "migraine", "head hurts"],
+      "response": "Headaches are commonly caused by tension, dehydration, or lack of sleep. If this is the worst headache of your life, came on suddenly, or is accompanied by vision changes or weakness, that is an emergency and you should call 911."
+    },
+    {
+      "id": "cough",
+      "keywords": ["cough", "coughing", "chest"],
+      "response": "A cough lasting under three weeks is usually viral. Honey, warm fluids, and humidified air can ease it. Please reach out right away if you cough up blood, feel short of breath, or the cough persists beyond three weeks."
+    },
+    {
+      "id": "medication",
+      "keywords": ["medication", "prescription", "refill", "pill"],
+      "response": "I can help route a refill request to your care team. Could you confirm the medication name and the pharmacy you would like it sent to?"
+    },
+    {
+      "id": "greeting",
+      "keywords": ["hello", "hi", "hey"],
+      "response": "Hello! I'm your virtual clinical assistant. Tell me what's bothering you today and I'll help figure out the next step."
+    }
+  ]
+}
